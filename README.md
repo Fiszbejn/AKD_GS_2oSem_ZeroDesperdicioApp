@@ -28,14 +28,15 @@ O aplicativo possui 6 telas, gerenciadas através do `Navigation Compose`:
 *(Substitua os links abaixo pelos prints reais do seu emulador/celular. Você pode arrastar as imagens direto para a caixa de edição do GitHub para gerar os links)*
 
 <p align="center">
-  <img src="URL_DA_IMAGEM_SPLASH" width="200"/>
-  <img src="URL_DA_IMAGEM_INTRO" width="200"/>
-  <img src="URL_DA_IMAGEM_HOME" width="200"/>
+  <img width="200" alt="splash" src="https://github.com/user-attachments/assets/5af3276c-e274-4582-a94e-c2f11a2590d7" />
+  <img width="200" alt="intro" src="https://github.com/user-attachments/assets/abc6475e-2a77-4e83-8ec5-ebdb2203e2a7" />
+  <img width="200" alt="home" src="https://github.com/user-attachments/assets/74eeec37-0821-4ef8-9d03-61406e089e3f" />
 </p>
 <p align="center">
   <img src="URL_DA_IMAGEM_DETALHES" width="200"/>
-  <img src="URL_DA_IMAGEM_RESGATES" width="200"/>
-  <img src="URL_DA_IMAGEM_PERFIL" width="200"/>
+  <img width="200" alt="detalhes" src="https://github.com/user-attachments/assets/61d62dbc-97d4-43a7-81ce-b79da10bdac6" />
+  <img width="200" alt="resgates" src="https://github.com/user-attachments/assets/0f8c168e-65f9-4841-b7f4-51acaf6c5a5a" />
+  <img width="200" alt="perfil" src="https://github.com/user-attachments/assets/41238050-8719-4f5b-b3d0-738eedbf6131" />
 </p>
 
 ---
