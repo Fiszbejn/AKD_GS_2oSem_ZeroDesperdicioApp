@@ -33,7 +33,6 @@ O aplicativo possui 6 telas, gerenciadas através do `Navigation Compose`:
   <img width="200" alt="home" src="https://github.com/user-attachments/assets/74eeec37-0821-4ef8-9d03-61406e089e3f" />
 </p>
 <p align="center">
-  <img src="URL_DA_IMAGEM_DETALHES" width="200"/>
   <img width="200" alt="detalhes" src="https://github.com/user-attachments/assets/61d62dbc-97d4-43a7-81ce-b79da10bdac6" />
   <img width="200" alt="resgates" src="https://github.com/user-attachments/assets/0f8c168e-65f9-4841-b7f4-51acaf6c5a5a" />
   <img width="200" alt="perfil" src="https://github.com/user-attachments/assets/41238050-8719-4f5b-b3d0-738eedbf6131" />
